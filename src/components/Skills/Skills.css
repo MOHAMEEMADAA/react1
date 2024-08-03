@@ -1,0 +1,31 @@
+.skills {
+    background-color: darkorange;
+    color: black;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .skill-bars {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .skill {
+    margin: 10px 0;
+    width: 80%;
+  }
+  
+  .bar {
+    background-color: gold;
+    width: 100%;
+    height: 20px;
+    border-radius: 10px;
+  }
+  
+  .progress {
+    background-color: black;
+    height: 100%;
+    border-radius: 10px;
+  }
+  

@@ -1,0 +1,22 @@
+.contact {
+  background-color: darkorange;
+  color:black;
+  padding: 50px;
+  text-align: center;
+
+}
+
+.contact-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: 2px solid black;
+  background-color: transparent;
+  cursor: pointer;
+  transition: all 0.3s;
+  margin-left: -1%;
+}
+
+.contact-button:hover {
+  background-color: black;
+  color: white;
+}
